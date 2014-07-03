@@ -8,7 +8,6 @@ namespace TriviaGame
 {
     class Trivia
     {
-<<<<<<< HEAD
         //setting properties for our object
         public string Question { get; set; }
         public string Answer { get; set; }
@@ -24,9 +23,5 @@ namespace TriviaGame
             //answer is everything after the '*'
             this.Answer = questionAndAnswer[1];
         }
-=======
-        //TODO: Fill out the Trivia Object
-        
->>>>>>> origin/master
     }
 }
